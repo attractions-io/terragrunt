@@ -46,7 +46,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/urfave/cli v1.22.3
 	github.com/zclconf/go-cty v1.8.3
-	go.mozilla.org/sops/v3 v3.7.0
+	go.mozilla.org/sops/v3 v3.7.1
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
